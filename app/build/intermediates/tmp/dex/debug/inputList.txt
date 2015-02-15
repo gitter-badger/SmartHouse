@@ -1,0 +1,4 @@
+C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\build\intermediates\classes\debug
+C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\build\intermediates\pre-dexed\debug\jeval-0cb5f8374556ac7f9bde67247145f58074b15e75.jar
+C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\build\intermediates\pre-dexed\debug\easyandroidanimationslibrary-v0.5-621cf07185c77618aa5c6eefe01426609b0e7b75.jar
+C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\build\intermediates\pre-dexed\debug\android-support-v13-ebe9030b751ba1453c54b3cddc205327aaae80bb.jar

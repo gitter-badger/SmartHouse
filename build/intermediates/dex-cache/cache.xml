@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\libs\easyandroidanimationslibrary-v0.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d390299222db75e62708400b299080d122b28b">
+        <dex dex="C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\build\intermediates\pre-dexed\debug\easyandroidanimationslibrary-v0.5-621cf07185c77618aa5c6eefe01426609b0e7b75.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\libs\jeval.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="584be0ac1655138c7bb513aeb5043b5c39039af4">
+        <dex dex="C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\build\intermediates\pre-dexed\debug\jeval-0cb5f8374556ac7f9bde67247145f58074b15e75.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5fa2183e286730a81f3076f19022539902a24f3">
+        <dex dex="C:\Users\kaz\AndroidStudioProjects\SmartHouse1\app\build\intermediates\pre-dexed\debug\android-support-v13-ebe9030b751ba1453c54b3cddc205327aaae80bb.jar" />
+    </item>
+
+</items>
